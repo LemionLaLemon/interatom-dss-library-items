@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - "library/**"
-      - "scripts/**"
     paths-ignore:
       - "manifest.json"
 
