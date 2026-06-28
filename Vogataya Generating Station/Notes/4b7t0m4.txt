@@ -1,0 +1,100 @@
+REFERENCES:
+
+1. 10 CFR § 50.54 (k)
+  An operator or senior reactor operator licensed pursuant to part 55 of this chapter shall be present at the controls at all times during the operation of the facility
+
+2. 10 CFR 50.54 (j)
+  Apparatus and mechanisms other than controls, the operation of which may affect the reactivity or power level of a reactor shall be manipulated only with the knowledge and consent of an operator or senior operator licensed pursuant to part 55 of this chapter present at the controls.
+
+3. IE Circular 81-02
+  The following conditions and practices are among those the NRC believes to be necessary for the maintenance of a professional atmosphere in the control room and throughout the facility  
+    1. All on-duty NRC-licensed operators and operating supervisors must be
+      aware of and responsible for the plant status at all times. This
+      includes supervisors being responsible for the performance of all
+      personnel assigned to their shift who could affect plant safety,
+      regardless of specialty affiliation. Knowledge of the plant's
+      status must be assured during shift changes by a formal watch
+      turnover and relief.
+    2. All on-duty NRC-licensed operators must be alert, remain within their
+      immediate areas of responsibility until properly relieved, and be
+      particularly attentive to the instrumentation and controls located
+      within these areas at all times.
+    3. Potentially distracting activities in the control room and other watch
+      stations must be prohibited (for example: radios, TV, alcohol use or
+      drug abuse, games, horseplay, hobbies, and reading that is not directly
+      job related).
+    4. Control room access must be limited to those persons on official
+      business only and loitering in this area must be prohibited.
+    5. All necessary plant-related technical / administrative control room
+      business must be conducted at a location and in such a manner that
+      neither licensed control room operator attentiveness nor the professional
+      atmosphere will be compromised. This includes activities associated with
+      the use of special eating and training facilities for on-shift personnel.
+
+4. US NRC Regulatory Guide 1.114 2.3
+  The senior operator should have the flexibility to move periodically for a brief time to other parts
+  of the control room, as long as the senior operator is at all times within the control room vital area
+  and meets either of the following conditions.
+  a. The senior operator can see or hear the reactor operator at the controls.
+  b. The senior operator can hear the control room annunciators.
+
+5. Effects of Sound Interventions on the Mental Stress Response in Adults: Scoping Review PMCID PMC11976171
+  The findings suggest that music, especially classical and self-selected pieces, effectively reduces physiological 
+  stress markers, including cortisol levels, heart rate variability, and blood pressure. Nonmusical sounds, such as 
+  nature sounds and calming voices, also demonstrate potential for stress relief, although research in this area remains limited. 
+  While most sound interventions showed positive effects, some studies reported adverse effects, 
+  indicating that sound can both alleviate and induce stress. 
+  The outcomes were substantially affected by contextual factors such as personal preferences, delivery methods, 
+  cultural context, and emphasizing the importance of personalized interventions.
+
+TOPICS FOR DISCUSSION:
+
+Requesting an exemption from the guidance of IE Circular 81-02 Item 3,
+Clarification of 10 CFR 50.54 (j) "Apparatus and mechanisms [...] shall be manipulated only with the knowledge and consent of an operator or senior operator licensed [...] at the controls"
+
+ARGUMENTS FOR ADDITION OF RADIO IN THE VOGATAYA CONTROL ROOM:
+
+1. According to [Reference 5], music effectively reduces physiological stress markers including cortisol levels,
+  heart rate variability, and blood pressure.
+
+  Which in turn, can help prevent operators from having health issues as a result of the stress during transients.
+  Radios however, must be turned off during emergency conditions, startups, or shut downs.
+
+2. Radios will be kept on a volume lower than that of the annunciation panels and plant communication devices, 
+  such as the Plant Messaging System or speakers installed at various locations around the facility.
+
+3. Radios must be playing music from a preapproved selection determined to meet the following conditions
+    - Music must not contain any vocals 
+    - Music must not exceed 70 decibels peak and 60 decibels average in volume on the preapproved radio
+    - Music must produce calming effects (which will be determined by plant management)
+    - Music must be deemed to be nondistracting (which will be determined by plant management)
+
+4. Music in the control room can help prevent operators from getting bored and falling asleep
+  during their assigned shifts, as happened before and mentioned in a communication letter
+  from Monticello Nuclear Generating Plant (Letter 8610240322 861020)
+
+5. Radios must be turned off during the following conditions
+    - During a plant startup or shut down
+    - During shift turnovers
+    - During critical communications 
+    - During testing which require heightened verbal coordination
+
+ARGUMENTS AGAINST THE ADDITION OF RADIO IN THE VOGATAYA CONTROL ROOM:
+
+1. Could pose as a distraction from monitoring tasks.
+
+2. Certain frequencies can mask the sound of annunciators or an electrical failure.
+
+3. The music played could pose the opposite purpose, causing operators to fall asleep
+  rather than keeping them alert.
+
+4. Could add an extra step to procedures of turning off the radio during emergencies, distracting
+  operators from the task of ensuring plant safety.
+
+5. Can add additional cognitive load in which operators will be able to hear the music
+  while it's playing
+
+NOTES:
+This change can initially be put on a controlled trial where InterATOM POWER and NRC Staff can 
+monitor the performance of operations and determine any impact on alarm and transient response, 
+and communications, along with collecting feedback from plant personnel.
